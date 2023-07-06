@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\bin\Debug\net7.0-windows\Joguinho.exe
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\bin\Debug\net7.0-windows\Joguinho.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\bin\Debug\net7.0-windows\Joguinho.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\bin\Debug\net7.0-windows\Joguinho.dll
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\bin\Debug\net7.0-windows\Joguinho.pdb
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.dll
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\refint\Joguinho.dll
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.pdb
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\Joguinho.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Estudos\supertrunfo\Joguinho\Joguinho\obj\Debug\net7.0-windows\ref\Joguinho.dll
